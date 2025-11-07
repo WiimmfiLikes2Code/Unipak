@@ -31,7 +31,8 @@ To uninstall any release, just type:
 sudo apt remove unipak
 
 ```
-All releases have been tested on Ubuntu 25.10.
+-All releases have been tested on Ubuntu 25.10.
+-Before updating versions, uninstall the previous version before installing a new one.
 
 ## Notes
 
