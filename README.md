@@ -34,7 +34,4 @@ sudo apt remove unipak
 
 ## Notes
 
-Please notify me of bugs, I'd love to fix them!
-
-Hi, Wiimmfi here! This is my very first project on GitHub, and I'm really excited to share it with the community! Any feedback or suggestions are much appreciated! :)
- 
+Hi, Wiimmfi here! This is my first ever project on GitHub. I built **Unipak** to explore Python programming and make managing packages on Ubuntu easier. I’m really excited to share it with the community! As a first project, it might have some quirks, so any feedback, ideas, or contributions would be amazing. Thanks for taking a look, and I hope you find Unipak useful! 
